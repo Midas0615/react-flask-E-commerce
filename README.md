@@ -1,20 +1,4 @@
-![Logo](app/static/img/watermark.png)
-
-# Ostrich: E-commerce rental platform
-
-Ostrich was built as a physical book rental platform which enables users to order books to their doorstep, track the delivery status, rate, review and return books. The complete e-commerce ecosystem surrounds the core feature providing the users with an end-to-end experience via strategic and timely push notification and mailers, Google authentication, automated updation of items and inventory and user behaviour tracking to understand preferences to name a few. 
-
-The architecture follows a lightweight, intuitive design pattern inspired by the beautiful [flamejam](https://github.com/svenstaro/flamejam) project for the backend and [flux](https://facebook.github.io/flux/docs/overview.html) architecture for the React frontend. The platform is written in a simple and generic manner and can be customized to suit various business solutions. 
-
-<br>
-
-![Homepage](app/static/img/screens/homepage_ss.png)
-
-<br>
-
-Scroll to the bottom to checkout more screenshots.
-
-<br><br>
+E-commerce rental platform
 
 ## Tech Stack
 
